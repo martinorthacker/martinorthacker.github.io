@@ -7,3 +7,9 @@
 
 ![children packing up the car](./img_1_1748932453661.jpg)
 
+[back to main page](index.md)
+
+
+*You can actually use __html-tags__ as well, e.g. to resize your pics!*
+
+<img src="./img_1_1748932453661.jpg" alt="children packing up the car" width="50%">
